@@ -3,7 +3,10 @@ using System;
 namespace HelloWorld{
     class Program{
         static void Main(string[] args){
-            Console.WriteLine("Hello, World!");
+            int number = 0;
+            int newNum = number + 1;
+            Console.Write("The number is initially: " + number +"\n");
+            Console.Write("Now the number after adding one is: " + newNum);
         }
     }
 }
