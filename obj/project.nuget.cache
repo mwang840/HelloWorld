@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lt9k/48JVN1IW6aVeEPPiM9cCk+aSWKyGpWFtroIZQXLCTGBFYV/zszAeadWHI+m217XPfdG1IknPqf3o+WXAQ==",
+  "dgSpecHash": "3x6ebguULkP3RGTUpBc/+lKx7pAIJ3jXBV2nE0sIbOkG7XUCMNGqgk+Tdx29jod119kFuEpHMyg71NBGEGdQ3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kabut\\Documents\\Progamming Things\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\kabut\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
